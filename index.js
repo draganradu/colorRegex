@@ -1,0 +1,1 @@
+const regexColor = /[a-z]/gi
